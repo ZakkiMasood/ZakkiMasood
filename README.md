@@ -88,7 +88,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=REPLACE_
 ### Get in touch
 
 - **LinkedIn** — [linkedin.com/in/zakimasood](https://www.linkedin.com/in/zakimasood)
-- **Email** — [REPLACE@au.edu.pk](mailto:REPLACE@au.edu.pk)
+- **Email** — [REPLACE@au.edu.pk](zaki.masood@khi.au.edu.pk)
 - **Google Scholar** — [profile](https://scholar.google.com/citations?user=REPLACE_ME)
 
 ---
