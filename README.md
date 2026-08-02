@@ -1,7 +1,7 @@
 <h1 align="center">Zaki Masood</h1>
 
 <p align="center">
-  <b>Assistant Professor, Computer Science — Air University, Karachi</b><br>
+  <b>Assistant Professor, Computer Science, Air University, Karachi Campus</b><br>
   PhD, Electrical Engineering · Chonnam National University, South Korea<br>
   <i>Smart grid · energy optimization · IoT networks · machine learning for power systems</i>
 </p>
