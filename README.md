@@ -19,7 +19,7 @@
 
 I work on one question in several forms: **how do you make an energy or utility system deliver more while wasting less, when the demand driving it comes from people whose behaviour keeps changing?**
 
-That question has taken me through household load forecasting, water-pump scheduling against live market prices, battery state-of-charge prediction for grid frequency regulation, and power allocation in distributed-antenna IoT networks. The application changes; the shape of the problem does not — a real physical system, a hard optimization underneath it, and a decision that has to be made before the data is complete.
+That question has taken me through household load forecasting, water-pump scheduling against live market prices, battery state-of-charge prediction for grid frequency regulation, and power allocation in distributed-antenna IoT networks. The application changes; the shape of the problem does not a real physical system, a hard optimization underneath it, and a decision that has to be made before the data is complete.
 
 I am currently Assistant Professor of Electrical Engineering at **Air University, Karachi**. Before that I spent nearly four years as a **Research Fellow at the Singapore University of Technology and Design (SUTD)**, and before that as a **Postdoctoral Researcher at Chonnam National University**, South Korea.
 
